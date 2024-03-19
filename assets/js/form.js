@@ -10,9 +10,19 @@ submitButton.addEventListener("click", function (event) {
 });
 
 function savePost() {
-  console.log("hello");
-  // add if
-  if (){
+  {
+    console.log("save");
+    // add if
+    // if (mode === "submit") {
+    //   mode = "save";
+    //   container.setAttribute("", "");
+    //   darkLight.textContent = "";
+    // } else {
+    //   mode = "alert";
+    //   container.setAttribute("", "");
+    //   darkLight.textContent = "";
+    // }
+  }
   const blogPost = {
     username: usernameEl.value.trim(),
     title: titleEl.value.trim(),
@@ -25,5 +35,5 @@ function savePost() {
 
   localStorage.setItem("blogPosts", JSON.stringify(oldPosts));
 }
-else ()
-}
+// else ()
+// }
