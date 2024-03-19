@@ -13,10 +13,12 @@ you can see the title, the content, and the author of the post.
 In the footer, you will be presented with a link to the developer's portfolio.
 .
 
-# Application:
+# Application DEMO:
 
-<img src="https://github.com/Rualexandra/" width="50%" height="50%">
+<img src="./assets/images/Screenshot 2024-03-18 at 11.15.48 PM.png" width="50%" height="50%">
+<img src="./assets/images/Screenshot 2024-03-18 at 11.16.10 PM.png" width="50%" height="50%">
+<img src="./assets/images/Screenshot 2024-03-18 at 11.16.19 PM.png" width="50%" height="50%">
 
-# Link:
+# Link to application:
 
-<https://rualexandra.github.io/>
+<https://rualexandra.github.io/Personal-Blog/>
